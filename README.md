@@ -50,11 +50,10 @@ The site focuses on elegant visuals, intuitive UI, and a fully responsive layout
 1. Clone this repository:  
    ```bash
    git clone https://github.com/charmi-reddy/PurpleLuxe.git
-Navigate into the project folder:
+2. Navigate into the project folder:
+   '''bash
+   cd PurpleLuxe
 
-cd PurpleLuxe
+3. Open index.html in your browser (or use a local server).
 
-
-Open index.html in your browser (or use a local server).
-
-Explore, add products to cart, and simulate checkout.
+4. Explore, add products to cart, and simulate checkout.
