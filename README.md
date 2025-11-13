@@ -5,13 +5,16 @@ Developed by me, **Charmi Reddy**.
 
 ---
 
-## 🚀 Project Overview  
+## Project Overview  
 **PurpleLuxe** offers a complete client-side shopping experience — users can browse products, add items to the cart, and simulate a checkout process.  
 The site focuses on elegant visuals, intuitive UI, and a fully responsive layout for all screen sizes.
 
 ---
+## Video Demo:
 
-## ✨ Features  
+https://github.com/user-attachments/assets/1b12380c-2809-4f1e-8b36-ee1ebc482b88
+
+## Features  
 - 🛍️ Product listings with images, prices, and descriptions  
 - ➕ Add-to-cart functionality and live cart summary  
 - 💳 Simulated checkout form (frontend only)  
@@ -20,7 +23,7 @@ The site focuses on elegant visuals, intuitive UI, and a fully responsive layout
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **HTML5** – Page structure and semantic markup  
 - **CSS3** – Styling, layout, and responsiveness  
 - **JavaScript (Vanilla)** – Cart logic and interactivity  
@@ -28,16 +31,14 @@ The site focuses on elegant visuals, intuitive UI, and a fully responsive layout
 
 ---
 
----
-
-## 🎯 Purpose  
+## Purpose  
 - Practice **core frontend web development skills**  
 - Build a **real-world style project** to demonstrate UI design and functionality  
 - Strengthen understanding of **responsive design principles**
 
 ---
 
-## 📚 What I Learned  
+## What I Learned  
 - Dynamic UI manipulation using vanilla JavaScript  
 - Managing cart state on the client-side  
 - Designing reusable components (e.g., product cards)  
@@ -46,7 +47,7 @@ The site focuses on elegant visuals, intuitive UI, and a fully responsive layout
 
 ---
 
-## 🔧 How to Run Locally  
+## How to Run Locally  
 1. Clone this repository:  
    ```bash
    git clone https://github.com/charmi-reddy/PurpleLuxe.git
