@@ -28,4 +28,33 @@ The site focuses on elegant visuals, intuitive UI, and a fully responsive layout
 
 ---
 
-## 📂 Folder Structure  
+---
+
+## 🎯 Purpose  
+- Practice **core frontend web development skills**  
+- Build a **real-world style project** to demonstrate UI design and functionality  
+- Strengthen understanding of **responsive design principles**
+
+---
+
+## 📚 What I Learned  
+- Dynamic UI manipulation using vanilla JavaScript  
+- Managing cart state on the client-side  
+- Designing reusable components (e.g., product cards)  
+- Writing clean, maintainable, and scalable CSS  
+- Implementing responsive layouts with media queries  
+
+---
+
+## 🔧 How to Run Locally  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/charmi-reddy/PurpleLuxe.git
+Navigate into the project folder:
+
+cd PurpleLuxe
+
+
+Open index.html in your browser (or use a local server).
+
+Explore, add products to cart, and simulate checkout.
