@@ -1,7 +1,7 @@
 # 💜 PurpleLuxe  
 
 A responsive **e-commerce website** built using **HTML, CSS, and JavaScript**.  
-Developed by **Charu (Charmi Reddy)** as part of a front-end development portfolio.
+Developed by me, **Charmi Reddy**.
 
 ---
 
@@ -51,7 +51,7 @@ The site focuses on elegant visuals, intuitive UI, and a fully responsive layout
    ```bash
    git clone https://github.com/charmi-reddy/PurpleLuxe.git
 2. Navigate into the project folder:
-   '''bash
+   ```bash
    cd PurpleLuxe
 
 3. Open index.html in your browser (or use a local server).
